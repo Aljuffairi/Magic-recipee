@@ -9,7 +9,7 @@
 
 AJ — foundation, CSV handling, adding recipes, main menu
 MI— viewing recipes, category filter, shopping list
-AH — search, random recipe, scale servings, cooking history
+AH — search, random recipe, cooking history
 
 
 ## How to Run
@@ -31,7 +31,6 @@ Suggest a recipe based on cooking history
 ## Files
 
 RecipeManager.ipynb — main notebook with all the code
-RecipeManager_Instructions.ipynb — instructions only, no code
 recipes.csv — created automatically when you add your first recipe
 
 
